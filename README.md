@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm **Hassan Mehmood!**
 
-💻 A Passionate Software Engineer - Crafting impactful software solutions with over 2 years of professional experience with specialization in **Full Stack Development** 🌍🛠️. I thrive in dynamic environments, developing robust and scalable solutions with a diverse toolkit of technologies.
+💻 A Passionate Senior Software Engineer - Crafting impactful software solutions with over 3 years of professional experience with specialization in **Full Stack Development** 🌍🛠️. I thrive in dynamic environments, developing robust and scalable solutions with a diverse toolkit of technologies.
 
 ## Specializations
 I build modern, responsive, and user-centric web applications. My expertise spans both front-end and back-end technologies, allowing me to tackle complex problems and deliver high-quality software solutions.
